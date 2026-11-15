@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tewfik;Fouad;;Dr;
+FN:Dr Fouad Tewfik
+ORG:Gimpex Technologies
+TITLE:Chief Executive Officer
+TEL;TYPE=CELL,VOICE:+201222100343
+EMAIL;TYPE=INTERNET,WORK:tewfik@gimpex-egypt.net
+URL:https://gimpex-egypt.net
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/dr-fouad-tewfik-374a2919/
+ADR;TYPE=WORK:;;;Cairo;;;Egypt
+END:VCARD
